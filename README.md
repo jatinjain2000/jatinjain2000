@@ -87,5 +87,5 @@
 
  
 
-📩✏️ How to reach me: <a href='mailto: jatinjain.2011@gmail.com'>jatinjain.2011.com</a>
+📩✏️ How to reach me: <a href='mailto: jatinjain.2011@gmail.com'>jatinjain.2011@gmail.com</a>
 </p>
