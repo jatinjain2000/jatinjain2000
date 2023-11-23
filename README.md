@@ -14,7 +14,7 @@
 </a>&nbsp;&nbsp;
         
 
-<a href="https://www.instagram.com/jatin_____/">
+<a href="https://www.instagram.com/jatin_______/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
 </a>&nbsp;&nbsp;
 </p>
